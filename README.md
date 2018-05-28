@@ -1,2 +1,2 @@
 # ToDo-app
-A simple ToDo list app using React Native.
+A simple ToDo list app using React Native
